@@ -8,7 +8,3 @@ def my_each(arr)
   arr
 end
 
-
-my_each(x) do |x| 
-  puts x
-end
