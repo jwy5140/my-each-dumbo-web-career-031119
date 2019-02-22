@@ -8,6 +8,6 @@ def my_each(arr)
 end
 
 
-my_each(x) do |x| 
+my_each() do |x| 
   puts x
 end
